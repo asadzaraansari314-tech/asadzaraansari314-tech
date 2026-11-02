@@ -1,17 +1,28 @@
 
-<h1 align="center">Hi 👋, I'm Zareen Ara</h1>
+<!-- ================= HEADER ================= -->
 
-<h3 align="center">MCA Student | Aspiring AI/ML Engineer | Python Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2FF,50:EDE9FE,100:DBEAFE&height=190&section=header&text=Zareen%20Ara&fontSize=55&fontColor=312E81&fontAlignY=38&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Grow&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f338.png" width="28" />
+  Zareen Ara
+</h1>
+
+<h3 align="center">
+  MCA Student | Aspiring AI/ML Engineer | Python Developer
+</h3>
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/zareen-ara-434248399/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/__Zareen_Ara__/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode" />
   </a>
 </p>
 
@@ -25,12 +36,12 @@
 
 Hello! I'm **Zareen Ara**, an MCA student passionate about technology, programming and Artificial Intelligence.
 
-- 🎓 Currently pursuing Master of Computer Applications (MCA).
+- 🎓 Currently pursuing Master of Computer Applications.
 - 🤖 Interested in Artificial Intelligence and Machine Learning.
 - 🐍 Working with Python and exploring AI/ML technologies.
-- 💡 Interested in solving real-world problems through technology.
-- 📚 Continuously learning Data Structures and Algorithms.
-- 🎯 Career Goal: To become a skilled AI/ML Engineer.
+- 👁️ Exploring Computer Vision and Deep Learning.
+- 💡 Interested in building real-world technology solutions.
+- 🎯 My goal is to become a skilled AI/ML Engineer.
 
 ---
 
@@ -51,14 +62,14 @@ Hello! I'm **Zareen Ara**, an MCA student passionate about technology, programmi
 **AI / ML & Computer Vision**
 
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-7952B3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3D99?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Machine_Learning-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep_Learning-6C63FF?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
 </p>
 
-**Database & Development Tools**
+**Database & Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
@@ -68,50 +79,84 @@ Hello! I'm **Zareen Ara**, an MCA student passionate about technology, programmi
 
 ## 🚀 Featured Projects
 
-### 🤟 1. Sign Language to Text
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=700&auto=format&fit=crop" width="100%" height="160" />
+</a>
+
+### 🤟 Sign Language to Text
 
 Recognizes A–Z hand gestures and converts them into text using a webcam.
 
-**Technologies:** Python, OpenCV, MediaPipe, NumPy
+**Tech:** Python, OpenCV, MediaPipe, NumPy
 
-[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">View Project →</a>
+</td>
 
-### 🥐 2. Bakery Management System
+<td width="50%">
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">
+<img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?w=700&auto=format&fit=crop" width="100%" height="160" />
+</a>
 
-A web-based application designed to manage bakery products, orders and business operations.
+### 🥐 Bakery Management System
 
-**Technologies:** Python, HTML, CSS, JavaScript, MySQL
+A web application for managing bakery products, orders and business operations.
 
-[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
+**Tech:** Python, HTML, CSS, JavaScript, MySQL
 
-### 🌙 3. Low-Light Image Enhancement
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">View Project →</a>
+</td>
+</tr>
 
-A computer vision project focused on improving the visibility and quality of images captured in low-light conditions.
+<tr>
+<td width="50%">
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">
+<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=700&auto=format&fit=crop" width="100%" height="160" />
+</a>
 
-**Technologies:** Python, Image Processing
+### 🌙 Low-Light Image Enhancement
 
-[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
+Improves image visibility and quality in low-light conditions.
 
-### 🎓 4. Student Early Warning System
+**Tech:** Python, Image Processing
 
-A machine learning project designed to identify students at academic risk and predict their performance.
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">View Project →</a>
+</td>
 
-**Technologies:** Python, Machine Learning, Streamlit
+<td width="50%">
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">
+<img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=700&auto=format&fit=crop" width="100%" height="160" />
+</a>
 
-[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
+### 🎓 Student Early Warning System
+
+Identifies students at academic risk and predicts performance using ML.
+
+**Tech:** Python, Machine Learning, Streamlit
+
+<a href="https://github.com/asadzaraansari314-tech?tab=repositories">View Project →</a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/asadzaraansari314-tech">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/asadzaraansari314-tech">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
@@ -137,14 +182,14 @@ A machine learning project designed to identify students at academic risk and pr
 
 ---
 
-## 🎯 Currently Focusing On
+## 🎯 Current Focus
 
-- Data Structures and Algorithms
+- Data Structures & Algorithms
 - Python Programming
 - Machine Learning & Deep Learning
 - Computer Vision
-- Building AI-powered applications
-- Improving problem-solving skills
+- AI-powered Applications
+- Problem Solving
 
 ---
 
@@ -161,7 +206,7 @@ A machine learning project designed to identify students at academic risk and pr
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:zareenara12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -171,7 +216,7 @@ A machine learning project designed to identify students at academic risk and pr
   <i>"Great things are built one line of code at a time."</i>
 </p>
 
-<h3 align="center">Thank You for Visiting My Profile! 👋</h3>
+<h3 align="center">Thank You for Visiting My Profile! 🌸</h3>
 
 <p align="center">
   <b>Learn • Build • Innovate • Grow</b>
