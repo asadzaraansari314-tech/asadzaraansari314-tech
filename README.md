@@ -124,5 +124,4 @@
 <p align="center">
   ⭐ Thanks for visiting my GitHub Profile!
   <br/>
-  Let's Learn, Build and Grow Together! 🚀
 </p>
