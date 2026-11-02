@@ -75,7 +75,7 @@
 ## 💻 LeetCode Dashboard
 
 <p align="center">
-  <a href="https://leetcode.com/u/Mukesh_Patel123/">
+  <a href="https://leetcode.com/u/__Zareen_Ara__/">
     <img src="https://leetcard.jacoblin.cool/Mukesh_Patel123?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
