@@ -36,19 +36,19 @@ Hello! I'm **Zareen Ara**, an MCA student passionate about technology, programmi
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+**Programming Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
-### Web Development
+**Web Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### AI / ML & Computer Vision
+**AI / ML & Computer Vision**
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-7952B3?style=for-the-badge" />
@@ -58,7 +58,7 @@ Hello! I'm **Zareen Ara**, an MCA student passionate about technology, programmi
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
 </p>
 
-### Database & Development Tools
+**Database & Development Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
@@ -68,64 +68,64 @@ Hello! I'm **Zareen Ara**, an MCA student passionate about technology, programmi
 
 ## 🚀 Featured Projects
 
-### 1. Sign Language to Text
+### 🤟 1. Sign Language to Text
 
-A computer vision project that recognizes A–Z hand gestures and converts them into text using a webcam.
+Recognizes A–Z hand gestures and converts them into text using a webcam.
 
 **Technologies:** Python, OpenCV, MediaPipe, NumPy
 
-[View Project on GitHub](https://github.com/asadzaraansari314-tech?tab=repositories)
+[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
 
-### 2. Bakery Management System
+### 🥐 2. Bakery Management System
 
 A web-based application designed to manage bakery products, orders and business operations.
 
 **Technologies:** Python, HTML, CSS, JavaScript, MySQL
 
-[View Project on GitHub](https://github.com/asadzaraansari314-tech?tab=repositories)
+[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
 
-### 3. Low-Light Image Enhancement
+### 🌙 3. Low-Light Image Enhancement
 
 A computer vision project focused on improving the visibility and quality of images captured in low-light conditions.
 
 **Technologies:** Python, Image Processing
 
-[View Project on GitHub](https://github.com/asadzaraansari314-tech?tab=repositories)
+[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
 
-### 4. Student Early Warning System
+### 🎓 4. Student Early Warning System
 
 A machine learning project designed to identify students at academic risk and predict their performance.
 
 **Technologies:** Python, Machine Learning, Streamlit
 
-[View Project on GitHub](https://github.com/asadzaraansari314-tech?tab=repositories)
+[View Project on GitHub →](https://github.com/asadzaraansari314-tech?tab=repositories)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://streak-stats.demolab.com?user=asadzaraansari314-tech&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=asadzaraansari314-tech&theme=default&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
-## 💻 LeetCode Profile
+## 💻 LeetCode Dashboard
 
 <p align="center">
   <a href="https://leetcode.com/u/__Zareen_Ara__/">
-    <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=light&font=Roboto&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=light&font=Roboto&ext=heatmap" alt="LeetCode Statistics" />
   </a>
 </p>
 
