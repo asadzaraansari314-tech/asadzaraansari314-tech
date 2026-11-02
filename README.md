@@ -1,14 +1,5 @@
  <!-- ================= FLORAL HEADER ================= -->
 
-<p align="center">
-  <a href="https://github.com/asadzaraansari314-tech">
-    <img src="## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://t3.ftcdn.net/jpg/20/51/12/90/360_F_2051129030_uod7m0OoRgOBN03AcYRzK9ESwAAAnXdt.jpg" alt="Zareen's GitHub Stats" />
-</p>
-
----
 
 ## 🔥 Zareen's GitHub Contribution Streak
 
