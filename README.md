@@ -208,36 +208,17 @@ Identifies students at academic risk and predicts performance using ML.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Zareen's GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Zareen's Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile"/>
-  </a>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Zareen's GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Zareen's Top Languages" />
 </p>
 
 ---
 
-## 🔥 Zareen's Contribution Streak
+## 🔥 Zareen's GitHub Contribution Streak
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://streak-stats.demolab.com/?user=asadzaraansari314-tech&theme=tokyonight&hide_border=true" width="100%" alt="Zareen's GitHub Contribution Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/>
+    <img width="70%" src="https://streak-stats.demolab.com?user=asadzaraansari314-tech&theme=tokyonight&hide_border=true" alt="Zareen's GitHub Contribution Streak" />
   </a>
 </p>
 
