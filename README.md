@@ -5,8 +5,7 @@
     <img src="## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Zareen's GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Zareen's Top Languages" />
+  <img width="49%" src="https://t3.ftcdn.net/jpg/20/51/12/90/360_F_2051129030_uod7m0OoRgOBN03AcYRzK9ESwAAAnXdt.jpg" alt="Zareen's GitHub Stats" />
 </p>
 
 ---
