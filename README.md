@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♀️ About Me
 
 - 🎓 MCA Student
 - 🤖 Interested in Artificial Intelligence and Machine Learning
@@ -45,13 +45,16 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🚦 Traffic Sign Recognition | CNN-based traffic sign detection and recognition |
-| 🏥 Medical Management System | Patient and medical record management |
-| 🤟 Sign Language to Text | Converts sign language gestures into text |
-| 🧮 All-in-One Calculator | Multi-purpose calculator application |
-| 🌦️ Weather Analytics Platform | Weather data analysis and reporting dashboard |
+| Project | Description | Technologies |
+|---|---|---|
+| 🤟 Sign Language to Text | Recognizes A–Z hand gestures and converts them into text using a webcam. | Python, OpenCV, MediaPipe, NumPy |
+| 🥐 Bakery Management System | Manages bakery products, orders and business operations. | Python, HTML, CSS, JavaScript, MySQL |
+| 🌙 Low-Light Image Enhancement | Enhances low-light images and improves image visibility. | Python, Image Processing |
+| 🎓 Student Early Warning System | Predicts student academic performance and identifies students at risk. | Python, Machine Learning, Streamlit |
+| 🚦 Traffic Sign Recognition | CNN-based traffic sign detection and recognition. | Python, CNN |
+| 🏥 Medical Management System | Patient and medical record management system. | Python, Database |
+| 🧮 All-in-One Calculator | Multi-purpose calculator application. | Python |
+| 🌦️ Weather Analytics Platform | Weather data analysis and reporting dashboard. | Python, Data Analysis |
 
 ---
 
@@ -73,14 +76,12 @@
 ---
 
 ## 💻 LeetCode Dashboard
-<p align="center">
-    <a href="https://leetcode.com/u/__Zareen_Ara__/">
 
-  <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=dark&font=Bahianita&colors=Black&ext=heatmap" alt="Zareen's LeetCode Stats" />
+<p align="center">
+  <a href="https://leetcode.com/u/__Zareen_Ara__/">
+    <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=dark&font=Bahianita&colors=Black&ext=heatmap" alt="Zareen's LeetCode Stats" />
   </a>
 </p>
-
-
 
 ---
 
@@ -97,23 +98,4 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:zareenara12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 📚 Data Structures & Algorithms
-- 🧠 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🐍 Advanced Python
-- 🚀 Building AI-powered applications
-
----
-
-## 💡 Developer Quote
-
-<p align="center">
-  <i>"Great things are built one line
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
