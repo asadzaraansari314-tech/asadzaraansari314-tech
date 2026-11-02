@@ -2,7 +2,23 @@
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1500&h=420&q=85" width="100%" alt="Floral flower banner"/>
+    <img src="## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Zareen's GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Zareen's Top Languages" />
+</p>
+
+---
+
+## 🔥 Zareen's GitHub Contribution Streak
+
+<p align="center">
+  <a href="https://github.com/asadzaraansari314-tech">
+    <img width="70%" src="https://streak-stats.demolab.com?user=asadzaraansari314-tech&theme=tokyonight&hide_border=true" alt="Zareen's GitHub Contribution Streak" />
+  </a>
+</p>
+" width="100%" alt="Floral flower banner"/>
   </a>
 </p>
 
