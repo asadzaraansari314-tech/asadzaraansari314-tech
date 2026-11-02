@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB1gVkOpdR7SH3AEgdXO97Xxidhd2jc__H2Y_LeRLeeQ&s=10" height= 25% width="45%" alt="Floral flower banner"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB1gVkOpdR7SH3AEgdXO97Xxidhd2jc__H2Y_LeRLeeQ&s=10" height= 15% width="25%" alt="Floral flower banner"/>
   </a>
 </p>
 
