@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/__Zareen_Ara__/">
-    <img src="https://leetcard.jacoblin.cool/Mukesh_Patel123?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=dark&font=Bahianita&colors=Black&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
