@@ -2,29 +2,29 @@
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1500&h=420&q=85" width="100%" alt="Flower Background Banner"/>
+    <img src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1500&h=420&q=85" width="100%" alt="White and pastel flowers"/>
   </a>
 </p>
 
 <h1 align="center">🌸 Zareen Ara</h1>
 
-<h3 align="center">
-  MCA Student | Aspiring AI/ML Engineer | Python Developer
-</h3>
-
 <p align="center">
   <b>Learn • Build • Grow</b>
 </p>
 
+<h3 align="center">
+MCA Student | Aspiring AI/ML Engineer | Python Developer
+</h3>
+
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=flat-square&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/zareen-ara-434248399/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/__Zareen_Ara__/">
-    <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=flat-square&logo=leetcode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode" alt="LeetCode"/>
   </a>
 </p>
 
@@ -86,7 +86,7 @@ Hello! I'm **Zareen Ara**, an MCA student passionate about technology, programmi
 <td width="50%" valign="top">
 
 <a href="https://github.com/asadzaraansari314-tech?tab=repositories">
-<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80" width="100%" alt="AI Technology - Sign Language Project"/>
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80" width="100%" alt="AI Robot - Sign Language Project"/>
 </a>
 
 ### 🤟 Sign Language to Text
@@ -98,11 +98,10 @@ Recognizes A–Z hand gestures and converts them into text using a webcam.
 <a href="https://github.com/asadzaraansari314-tech?tab=repositories">View Project →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://github.com/asadzaraansari314-tech?tab=repositories">
-<img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80" width="100%" alt="Bakery Management Project"/>
+<img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80" width="100%" alt="Fresh Bakery Products"/>
 </a>
 
 ### 🥐 Bakery Management System
@@ -120,7 +119,7 @@ A web application for managing bakery products, orders and business operations.
 <td width="50%" valign="top">
 
 <a href="https://github.com/asadzaraansari314-tech?tab=repositories">
-<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=800&q=80" width="100%" alt="Night Sky - Low Light Image Enhancement"/>
+<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=800&q=80" width="100%" alt="Night Sky - Low Light Enhancement"/>
 </a>
 
 ### 🌙 Low-Light Image Enhancement
@@ -132,11 +131,10 @@ Improves image visibility and quality in low-light conditions.
 <a href="https://github.com/asadzaraansari314-tech?tab=repositories">View Project →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://github.com/asadzaraansari314-tech?tab=repositories">
-<img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=800&q=80" width="100%" alt="University Students - Student Early Warning System"/>
+<img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80" width="100%" alt="Study Notes and Education - Student Early Warning System"/>
 </a>
 
 ### 🎓 Student Early Warning System
@@ -153,7 +151,7 @@ Identifies students at academic risk and predicts performance using ML.
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_My_Projects-7952B3?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+    <img src="https://img.shields.io/badge/Explore_All_Projects-7952B3?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
   </a>
 </p>
 
@@ -163,19 +161,19 @@ Identifies students at academic risk and predicts performance using ML.
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=default&hide_border=true" width="100%" alt="Zareen GitHub Statistics"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" width="100%" alt="GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=default&hide_border=true" width="100%" alt="Zareen Most Used Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=default&hide_border=true&cache_seconds=86400" width="100%" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    View My GitHub Profile →
+    <img src="https://img.shields.io/badge/VIEW-GITHUB_PROFILE-181717?style=for-the-badge&logo=github" alt="View GitHub Profile"/>
   </a>
 </p>
 
@@ -185,13 +183,13 @@ Identifies students at academic risk and predicts performance using ML.
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://streak-stats.demolab.com/?user=asadzaraansari314-tech&theme=default&hide_border=true" width="100%" alt="Zareen GitHub Contribution Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=asadzaraansari314-tech&theme=default&hide_border=true" width="100%" alt="GitHub Contribution Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/asadzaraansari314-tech">
-    <img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/>
+    <img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit My GitHub"/>
   </a>
 </p>
 
@@ -201,7 +199,7 @@ Identifies students at academic risk and predicts performance using ML.
 
 <p align="center">
   <a href="https://leetcode.com/u/__Zareen_Ara__/">
-    <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=light&font=Roboto&ext=heatmap" width="100%" alt="Zareen LeetCode Statistics"/>
+    <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=light&font=Roboto&ext=heatmap" width="100%" alt="LeetCode Statistics"/>
   </a>
 </p>
 
