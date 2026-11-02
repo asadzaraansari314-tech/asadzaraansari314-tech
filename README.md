@@ -1,9 +1,11 @@
-
+ 
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2FF,50:EDE9FE,100:DBEAFE&height=190&section=header&text=Zareen%20Ara&fontSize=55&fontColor=312E81&fontAlignY=38&desc=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Grow&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
+  <img src="./profile-banner.png" width="100%" alt="Zareen Ara Floral Banner - Learn Build Grow" />
 </p>
+
+<!-- ================= INTRO ================= -->
 
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f338.png" width="28" />
