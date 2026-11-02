@@ -51,26 +51,24 @@
 | 🥐 Bakery Management System | Manages bakery products, orders and business operations. | Python, HTML, CSS, JavaScript, MySQL |
 | 🌙 Low-Light Image Enhancement | Enhances low-light images and improves image visibility. | Python, Image Processing |
 | 🎓 Student Early Warning System | Predicts student academic performance and identifies students at risk. | Python, Machine Learning, Streamlit |
-| 🚦 Traffic Sign Recognition | CNN-based traffic sign detection and recognition. | Python, CNN |
-| 🏥 Medical Management System | Patient and medical record management system. | Python, Database |
-| 🧮 All-in-One Calculator | Multi-purpose calculator application. | Python |
-| 🌦️ Weather Analytics Platform | Weather data analysis and reporting dashboard. | Python, Data Analysis |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Mukeshpatel123456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mukeshpatel123456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=asadzaraansari314-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Zareen's GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadzaraansari314-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Zareen's Top Languages" />
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 Zareen's GitHub Contribution Streak
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/asadzaraansari314-tech">
+    <img width="70%" src="https://streak-stats.demolab.com?user=asadzaraansari314-tech&theme=tokyonight&hide_border=true" alt="Zareen's GitHub Contribution Streak" />
+  </a>
 </p>
 
 ---
@@ -98,4 +96,33 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:zareenara12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 📚 Data Structures & Algorithms
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🐍 Advanced Python
+- 🚀 Building AI-powered applications
+- 💡 Improving problem-solving and coding skills
+
+---
+
+## 💡 Developer Quote
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub Profile!
+  <br/>
+  Let's Learn, Build and Grow Together! 🚀
+</p>
