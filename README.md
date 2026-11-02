@@ -73,12 +73,14 @@
 ---
 
 ## 💻 LeetCode Dashboard
-
 <p align="center">
-  <a href="https://leetcode.com/u/__Zareen_Ara__/">
-    <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=dark&font=Bahianita&colors=Black&ext=heatmap" alt="LeetCode Stats" />
+    <a href="https://leetcode.com/u/__Zareen_Ara__/">
+
+  <img src="https://leetcard.jacoblin.cool/__Zareen_Ara__?theme=dark&font=Bahianita&colors=Black&ext=heatmap" alt="Zareen's LeetCode Stats" />
   </a>
 </p>
+
+
 
 ---
 
