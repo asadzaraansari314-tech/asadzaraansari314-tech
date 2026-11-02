@@ -1,54 +1,83 @@
-<h1 align="center">👋 Hey, I'm Zareen Ara</h1>
+# 👋 Hi, I'm ZAREEN ARA!
 
-<h3 align="center">Aspiring AI/ML Engineer | MCA Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Python+Developer;MCA+Student;Problem+Solver;DSA+Learner;Tech+Enthusiast" />
-</p>
+### 🚀 MCA Student | Aspiring AI/ML Engineer | Python Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI%2FML+Engineer;Python+%7C+Django+%7C+Machine+Learning;Learning+%2C+Building+%2C+Growing" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🙋‍♂️ About Me
 
 - 🎓 MCA Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🐍 Python Developer
-- 💡 Learning Data Structures & Algorithms
-- 🚀 Building real-world projects
-- 🎯 Aspiring AI/ML Engineer
-- 🌱 Always learning and improving my skills
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💻 Python Developer and Problem Solver
+- 🌱 Currently learning Deep Learning, Computer Vision and AI
+- 🔭 Building real-world projects and improving my coding skills
+- 🎯 Goal: Become a skilled AI/ML Engineer
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cs" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,django,flask" />
+</p>
+
+### AI / ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
-- ✋ Sign Language to Text Recognition
-- 🥐 Bakery Management System
-- 🌙 Low-Light Image Enhancement
-- 📊 Student Performance Prediction System
+| Project | Description |
+|---|---|
+| 🚦 Traffic Sign Recognition | CNN-based traffic sign detection and recognition |
+| 🏥 Medical Management System | Patient and medical record management |
+| 🤟 Sign Language to Text | Converts sign language gestures into text |
+| 🧮 All-in-One Calculator | Multi-purpose calculator application |
+| 🌦️ Weather Analytics Platform | Weather data analysis and reporting dashboard |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Mukeshpatel123456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mukeshpatel123456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+---
+
+## 🔥 GitHub Contribution Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💻 LeetCode Dashboard
+
+<p align="center">
+  <a href="https://leetcode.com/u/Mukesh_Patel123/">
+    <img src="https://leetcard.jacoblin.cool/Mukesh_Patel123?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -56,11 +85,33 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="YOUR_LEETCODE_URL">LeetCode</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://github.com/asadzaraansari314-tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/zareen-ara-434248399/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/__Zareen_Ara__/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:zareenara12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Learn | Code | Build | Grow ✨</h3>
+## 🎯 Current Focus
+
+- 📚 Data Structures & Algorithms
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🐍 Advanced Python
+- 🚀 Building AI-powered applications
+
+---
+
+## 💡 Developer Quote
+
+<p align="center">
+  <i>"Great things are built one line
