@@ -215,14 +215,10 @@ Identifies students at academic risk and predicts performance using ML.
 ---
 
 ## 🔥 Zareen's GitHub Contribution Streak
-
-
-
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/asadzaraansari314-tech">
-    <img width="70%" src="https://streak-stats.demolab.com?user=asadzaraansari314-tech&theme=tokyonight&hide_border=true" alt="Zareen's GitHub Contribution Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=asadzaraansari314-tech&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak Stats" />
 </p>
 ---
 
