@@ -216,7 +216,7 @@ Identifies students at academic risk and predicts performance using ML.
 
 ## 🔥 Zareen's GitHub Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asadzaraansari314-tech&theme=tokyonight&hide_border=true&border_radius=10" width="75%" alt="GitHub Contribution Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Mukeshpatel123456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 💻 LeetCode Dashboard
